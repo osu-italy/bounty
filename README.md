@@ -1,1 +1,12 @@
 # bounty
+Listone dei bounty della community. 
+Se volete aggiungere un bounty, fate una pull request.
+
+# Attivi
+Per info sulle Liveplay, vedi [qui](#liveplay)
+| € | Mappa | Condizioni | Info generali | Liveplay(*) | Responsabile/i |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 200 | Qualsiasi | 1000pp | 160€ se la mappa è sotto 3 minuti | Sì | [Nakkeraru](https://osu.ppy.sh/users/9326857) + [Bry](https://osu.ppy.sh/users/11786359) + [Scla](https://osu.ppy.sh/users/6802061)|
+
+## Liveplay
+La telecamera deve riprendere il monitor, la tastiera e preferibilmente anche il tablet e mouse. Se viene fatta in live su una piattaforma di streaming, è preferibile. 
