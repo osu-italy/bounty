@@ -2,6 +2,9 @@
 Listone dei bounty della community. 
 Se volete aggiungere un bounty, fate una pull request o contattate [Scla](https://osu.ppy.sh/users/6802061) se non lo sapete fare.
 
+### Disclaimer
+Questi bounty sono **esclusivamente per chi ha la bandiera italiana sul profilo**. Se non vi vediamo nella classifica nazionale, non è valido anche se vengono rispettate tutte le condizioni del caso. 
+
 # Attivi
 Per info sulle Liveplay, vedi [qui](#liveplay)
 | € | Mappa | Condizioni | Info generali | Liveplay(*) | Responsabile/i |
