@@ -11,6 +11,7 @@ Per info sulle Liveplay, vedi [qui](#liveplay)
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 200€ | Qualsiasi | 1000pp | 160€ se la mappa è sotto 3 minuti | Sì | [Nakkeraru](https://osu.ppy.sh/users/9326857) + [Bry](https://osu.ppy.sh/users/11786359) + [Scla](https://osu.ppy.sh/users/6802061) |
 | 3 mesi supporter | [IMAGE -MATERIAL- <Version 0>](https://osu.ppy.sh/b/252238) | FC | NM/HD/HR/HDHR, no diff reducing mods | Sì | [Scla](https://osu.ppy.sh/users/6802061) | 
+| 6 mesi supporter | [Tengaku](https://osu.ppy.sh/beatmapsets/336414#osu/816327) | FC | NM/HD/HR/HDHR, no diff reducing mods | Sì | [Nakkeraru](https://osu.ppy.sh/users/9326857) | 
 
 ## Liveplay
 La telecamera deve riprendere il monitor, la tastiera e preferibilmente anche il tablet e mouse. Se viene fatta in live su una piattaforma di streaming, è preferibile. 
