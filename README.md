@@ -11,9 +11,9 @@ Il responsabile del bounty può decidere di cambiare questa regola a propria dis
 Per info sulle Liveplay, vedi [qui](#liveplay)
 | Premio | Mappa | Condizioni | Mod Permesse | Liveplay(*) | Responsabile/i |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 4 mesi supporter | [IMAGE -MATERIAL- <Version 0>](https://osu.ppy.sh/b/252238) | FC | ![HR](https://i.imgur.com/R2U2v1K.png) ![HD](https://i.imgur.com/Jq6frxS.png) ![NF](https://i.imgur.com/NDi4Bmm.png) ![SD](https://i.imgur.com/2thzulB.png) ![PF](https://i.imgur.com/oV5jUXP.png) | Sì | [Scla](https://osu.ppy.sh/users/6802061) |
-| 6 mesi supporter | [Tengaku](https://osu.ppy.sh/beatmapsets/336414#osu/816327) | FC | ![HR](https://i.imgur.com/R2U2v1K.png) ![HD](https://i.imgur.com/Jq6frxS.png) ![NF](https://i.imgur.com/NDi4Bmm.png) ![SD](https://i.imgur.com/2thzulB.png) ![PF](https://i.imgur.com/oV5jUXP.png) | Sì | [Nakkeraru](https://osu.ppy.sh/users/9326857) |
-| 4 mesi supporter | [Red Like Roses Part I & II [Rose]](https://osu.ppy.sh/b/326864) | FC | ![HR](https://i.imgur.com/R2U2v1K.png) ![HD](https://i.imgur.com/Jq6frxS.png) ![NF](https://i.imgur.com/NDi4Bmm.png) ![SD](https://i.imgur.com/2thzulB.png) ![PF](https://i.imgur.com/oV5jUXP.png) | Sì | [Scla](https://osu.ppy.sh/users/6802061) |
+| 4 mesi supporter | [IMAGE -MATERIAL- <Version 0>](https://osu.ppy.sh/b/252238) | FC | NM/HD/HR/HDHR, no diff reducing mods | Sì | [Scla](https://osu.ppy.sh/users/6802061) |
+| 6 mesi supporter | [Tengaku](https://osu.ppy.sh/beatmapsets/336414#osu/816327) | FC | NM/HD/HR/HDHR, no diff reducing mods | Sì | [Nakkeraru](https://osu.ppy.sh/users/9326857) |
+| 4 mesi supporter | [Red Like Roses Part I & II [Rose]](https://osu.ppy.sh/b/326864) | FC | NM/HD/HR/HDHR, no diff reducing mods | Sì | [Scla](https://osu.ppy.sh/users/6802061) |
 
 # Riscattati
 | _Premio_ | _Player_ | _Mappa_ | _Condizioni_ | _Info_ |  _Responsabile/i_ |
