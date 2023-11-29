@@ -18,7 +18,7 @@ Per info sulle Liveplay, vedi [qui](#liveplay)
 # Riscattati
 | Premio | Mappa | Condizioni | Info | Liveplay(*) | Responsabile/i |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 200€ | [Prima Stella \[Caged\] by Kowari](https://osu.ppy.sh/b/2663986) | 1000pp | #5 | Sì | [Nakkeraru](https://osu.ppy.sh/users/9326857) + [Bry](https://osu.ppy.sh/users/11786359) + [Scla](https://osu.ppy.sh/users/6802061) |
+| 200€ | [Prima Stella \[Caged\] by Kowari](https://osu.ppy.sh/b/2663986) | 1000pp | [#5](https://github.com/osu-italy/bounty/issues/5) | Sì | [Nakkeraru](https://osu.ppy.sh/users/9326857) + [Bry](https://osu.ppy.sh/users/11786359) + [Scla](https://osu.ppy.sh/users/6802061) |
 
 ## Liveplay
 La telecamera deve riprendere il monitor, la tastiera e preferibilmente anche il tablet e mouse. Se viene fatta in live su una piattaforma di streaming, è preferibile.
